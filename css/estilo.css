@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/**************Header*************/
+#topo {
+    background-color: cadetblue ;
+}
+
+#logo {
+    background-color: white;
+    background-image: url(../images/logohtml.png);
+    width: 450px;
+    height: 480px;
+}
+
+/***********Nav***************/
+
+#menu {
+    background-color: steelblue;
+}
+.destaques {
+    background-color: darkcyan;
+}
+#rodape {
+    background-color: darkturquoise;
+}
