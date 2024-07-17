@@ -7,22 +7,13 @@
 #topo {
     background-color: cadetblue ;
 }
-
-#logo {
-    background-color: white;
-    background-image: url(../images/logohtml.png);
-    width: 450px;
-    height: 480px;
-}
-
-/***********Nav***************/
-
 #menu {
-    background-color: steelblue;
+    background-color: cornflowerblue;
 }
 .destaques {
-    background-color: darkcyan;
+    background-color: dodgerblue;
 }
 #rodape {
-    background-color: darkturquoise;
+    background-color: lightseagreen;
 }
+
